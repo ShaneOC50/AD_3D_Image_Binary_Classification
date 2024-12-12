@@ -1,0 +1,13 @@
+Python==3.8.15
+importlib_resources==6.4.0
+nibabel==5.2.1
+numpy==1.21.1
+packaging==24.1
+pandas==2.0.3
+pydicom==2.4.4
+python-dateutil==2.9.0.post0
+pytz==2024.1
+scipy==1.9.1
+six==1.16.0
+tzdata==2024.1
+zipp==3.19.2
